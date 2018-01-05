@@ -31,6 +31,6 @@ set backupdir=/tmp/
 set autoindent
 
 set expandtab
-set tabstop=2
+set tabstop=4
 
 syntax on
