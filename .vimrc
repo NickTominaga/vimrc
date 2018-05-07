@@ -34,3 +34,10 @@ set expandtab
 set tabstop=4
 
 syntax on
+
+hi DiffAdd    ctermfg=black ctermbg=4
+hi DiffChange ctermfg=black ctermbg=3
+hi DiffDelete ctermfg=black ctermbg=6
+hi DiffText   ctermfg=black ctermbg=1
+
+set hlsearch
