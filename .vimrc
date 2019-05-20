@@ -23,10 +23,6 @@ let g:netrw_altv = 1
 " open command behavior, 'o' to be on bottom side(default: top side)
 let g:netrw_alto = 1
 
-" backup
-set backup
-set backupdir=/tmp/
-
 " autoindent and change tab to 2 spaces
 set autoindent
 
@@ -41,3 +37,5 @@ hi DiffDelete ctermfg=black ctermbg=6
 hi DiffText   ctermfg=black ctermbg=1
 
 set hlsearch
+
+set vb t_vb=
