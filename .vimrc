@@ -39,3 +39,7 @@ hi DiffText   ctermfg=black ctermbg=1
 set hlsearch
 
 set vb t_vb=
+
+autocmd BufNewFile,BufRead *.ts  set filetype=javascript
+autocmd BufNewFile,BufRead *.tsx  set filetype=javascript
+autocmd BufNewFile,BufRead *.jsx  set filetype=javascript
