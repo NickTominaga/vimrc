@@ -3,7 +3,7 @@ set encoding=utf-8
 set termencoding=utf-8
 set fileencoding=utf-8
 set encoding=utf-8
-set fileencodings=euc-jp,sjis,utf-8
+set fileencodings=utf-8
 
 " line number
 set number
