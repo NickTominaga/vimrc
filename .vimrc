@@ -27,9 +27,10 @@ let g:netrw_alto = 1
 set autoindent
 set expandtab
 set tabstop=4
+
+" misc
 set hlsearch
 set vb t_vb=
-
 syntax on
 
 " for git-bash
